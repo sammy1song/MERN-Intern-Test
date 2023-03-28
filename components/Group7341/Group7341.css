@@ -1,0 +1,29 @@
+.group-7341 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--scarpa-flow-2);
+  border-radius: 8px;
+  display: flex;
+  gap: 8px;
+  height: 56px;
+  margin-top: 16px;
+  min-width: 254px;
+  padding: 15px;
+}
+
+.vuesaxlinearmap {
+  height: 24px;
+  width: 24px;
+}
+
+.view-on-map {
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.group-7341.group-734 {
+  margin-top: 8px;
+}
+

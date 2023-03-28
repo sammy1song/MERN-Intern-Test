@@ -1,0 +1,77 @@
+:root { 
+  --black: #000000;
+  --blue: #2e63f6;
+  --midnight: #0f1c35;
+  --scarpa-flow: #555b67;
+  --scarpa-flow-2: #555b6726;
+  --whisper: #f5f6fa;
+  --white: #ffffff;
+ 
+  --font-size-l: 18px;
+  --font-size-m: 16px;
+  --font-size-s: 15px;
+  --font-size-xl: 24px;
+  --font-size-xs: 14px;
+  --font-size-xxs: 12px;
+ 
+  --font-family-gilroy-bold-☞: "Gilroy-Bold-☞", Helvetica;
+  --font-family-gilroy-medium-regular: "Gilroy-Medium-Regular", Helvetica;
+  --font-family-gilroy-medium-☞: "Gilroy-Medium-☞", Helvetica;
+  --font-family-gilroy-semibold-regular: "Gilroy-SemiBold-Regular", Helvetica;
+  --font-family-gilroy-semibold-☞: "Gilroy-SemiBold-☞", Helvetica;
+}
+.gilroy-semibold--normal-scarpa-flow-16px {
+  color: var(--scarpa-flow);
+  font-family: var(--font-family-gilroy-semibold-☞);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gilroy-semibold--normal-midnight-16px {
+  color: var(--midnight);
+  font-family: var(--font-family-gilroy-semibold-☞);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gilroy-medium--normal-scarpa-flow-16px {
+  color: var(--scarpa-flow);
+  font-family: var(--font-family-gilroy-medium-☞);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gilroy-medium--normal-midnight-18px {
+  color: var(--midnight);
+  font-family: var(--font-family-gilroy-medium-☞);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gilroy-semibold--normal-white-16px {
+  color: var(--white);
+  font-family: var(--font-family-gilroy-semibold-☞);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gilroy-semibold--normal-midnight-18px {
+  color: var(--midnight);
+  font-family: var(--font-family-gilroy-semibold-☞);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gilroy-semibold--normal-scarpa-flow-18px {
+  color: var(--scarpa-flow);
+  font-family: var(--font-family-gilroy-semibold-☞);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}

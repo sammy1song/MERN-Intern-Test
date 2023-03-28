@@ -1,0 +1,30 @@
+.group-7-1 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 8px;
+  display: flex;
+  height: 48px;
+  min-width: 48px;
+  padding: 0 12px;
+}
+
+.black-icon-setarrow-left-s-line {
+  height: 24px;
+  width: 24px;
+}
+
+.group-7-1.group-7349 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 8px;
+  display: flex;
+  height: 48px;
+  min-width: 48px;
+  padding: 0 12px;
+  transform: rotate(180deg);
+}
+
+.group-7-1.group-7349 .black-icon-setarrow-left-s-line {
+  transform: rotate(-180deg);
+}
+

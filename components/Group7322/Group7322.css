@@ -1,0 +1,30 @@
+.group-7322 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--scarpa-flow-2);
+  border-radius: 8px;
+  display: flex;
+  gap: 8px;
+  height: 56px;
+  margin-right: 2.0px;
+  margin-top: 8px;
+  min-width: 252px;
+  padding: 15px;
+}
+
+.vuesaxlinearnote-favorite {
+  height: 24px;
+  width: 24px;
+}
+
+.my-notes {
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.group-7322.group-73 {
+  margin-right: unset;
+}
+

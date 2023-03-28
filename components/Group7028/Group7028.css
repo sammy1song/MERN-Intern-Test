@@ -1,0 +1,59 @@
+.group-702-1 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 8px;
+  display: flex;
+  gap: 8px;
+  height: 56px;
+  min-width: 260px;
+  padding: 0 16px;
+}
+
+.vuesaxlinearspeedometer {
+  height: 24px;
+  width: 24px;
+}
+
+.dashboard {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-width: 83px;
+  white-space: nowrap;
+}
+
+.group-702-1.group-702-2 .dashboard {
+  min-width: 120px;
+}
+
+.group-702-1.group-702-3 .dashboard {
+  min-width: 70px;
+}
+
+.group-702-1.group-702-4 .dashboard {
+  min-width: 77px;
+}
+
+.group-702-1.group-702-5 .dashboard {
+  min-width: 67px;
+}
+
+.group-702-1.group-702 .dashboard {
+  min-width: 94px;
+}
+
+.group-702-1.group-7030 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 8px;
+  display: flex;
+  gap: 8px;
+  height: 56px;
+  margin-top: 8px;
+  min-width: 260px;
+  padding: 0 16px;
+}
+
+.group-702-1.group-7030 .dashboard {
+  min-width: 93px;
+}
+
